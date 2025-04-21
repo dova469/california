@@ -21,7 +21,7 @@ LOOKLIKE:
 20APRIL_OK
 16:29 PROGRAM_GO 
 16:31 PROGRAM_GO 
-16:33 PROGRAM_GO
+16:33 PROGRAM_GO now
 -
 22:20
 23:30
@@ -33,7 +33,7 @@ LOOKLIKE:
 -
 10:03 good
 -
-13:04 start profile ONLY
+13:04 start profile now ?????????
 13:23:15:00:00:00:00:01 BOOKED
 -
 13:44 PROGRAM_GO
@@ -48,8 +48,9 @@ LOOKLIKE:
 14:39
 -
 14:49
-14:53 ???
-14:55
+14:52
+-
+14:57
 15:45
 
 
